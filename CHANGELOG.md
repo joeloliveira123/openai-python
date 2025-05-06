@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.77.1 (2025-05-06)
+
+Full Changelog: [v1.77.0...v1.77.1](https://github.com/openai/openai-python/compare/v1.77.0...v1.77.1)
+
+### Chores
+
+* use lazy imports for module level client ([4d0f409](https://github.com/openai/openai-python/commit/4d0f409e79a18cce9855fe076f5a50e52b8bafd8))
+* use lazy imports for resources ([834813c](https://github.com/openai/openai-python/commit/834813c5cb1a84effc34e5eabed760393e1de806))
+
 ## 1.77.0 (2025-05-02)
 
 Full Changelog: [v1.76.2...v1.77.0](https://github.com/openai/openai-python/compare/v1.76.2...v1.77.0)
